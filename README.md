@@ -1,10 +1,11 @@
+<<<<<<< HEAD
 # 🌟 Gaurav Tiwari - 3D Portfolio Website
 
 A modern, interactive 3D portfolio website showcasing my skills, projects, and journey as a Computer Science Engineering student specializing in Data Science, Machine Learning, and Full-Stack Development.
 
 ## 🚀 Live Demo
 
-[View Live Portfolio](https://your-portfolio-url.com) <!-- Update with your actual URL -->
+[View Live Portfolio](https://gauravttiwari.github.io/my-portfolio/) | [GitHub Repository](https://github.com/gauravttiwari/my-portfolio)
 
 ## 📋 Table of Contents
 
